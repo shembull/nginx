@@ -1,7 +1,7 @@
+[submodule "modules/zlib"]
+	path = modules/zlib
+	url = git@github.com:madler/zlib.git
 [submodule "modules/openssl"]
 	path = modules/openssl
 	url = git@github.com:openssl/openssl.git
 	branch = OpenSSL_1_1_1-stable
-[submodule "modules/zlib"]
-	path = modules/zlib
-	url = git@github.com:madler/zlib.git
